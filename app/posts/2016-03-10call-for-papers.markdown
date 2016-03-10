@@ -1,7 +1,7 @@
-GDG DevFest Ukraine 2015 will be held on **October 23-24** in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+Women Techmakers Istanbul 2016 will be held on **April 03** at Bahcesehir University. If you want to be part of this great event as a speaker you knocked at the good door.
 
 
-### Presenters – who should speak at the DevFest Conference?
+### Presenters – who should speak at the Women Techmakers?
 
 * developers (freelance and hired)
 * companies developing software (apps, tools, frameworks etc.)
@@ -47,12 +47,12 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Go (as a language for a Cloud Ready Apps)
 
 
-### Please fill the [Call for Papers form](http://bit.ly/dfua-cfp) to submit your proposals.
+### Please fill the [Call for Papers form](https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform) to submit your proposals.
 
-**Deadline** is September 1, 2015
+**Deadline** is April 20, 2016
 
 **Please note:** There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2015.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until April 25, 2016.<br/>
 
-Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Any questions? Email organizers at [wtm@.gdgistanbul.com](mailto:wtm@gdgistanbul.com)
