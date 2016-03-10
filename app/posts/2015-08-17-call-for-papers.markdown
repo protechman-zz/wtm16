@@ -55,4 +55,4 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 The program committee picks the most interesting talk proposals and informs the selected submitters until April 25, 2016.<br/>
 
-Any questions? Email organizers at [devfest@gdg.org.ua](mailto:info@gdgistanbul.com)
+Any questions? Email organizers at [wtm@.gdgistanbul.com](mailto:wtm@gdgistanbul.com)
