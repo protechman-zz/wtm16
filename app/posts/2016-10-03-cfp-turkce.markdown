@@ -47,7 +47,7 @@ Bu seneki konferans konularımızı aşağıda listeledik. Fakat aşağıdaki ko
 * Go (as a language for a Cloud Ready Apps)
 
 
-### Başvurularınız [Call for Papers form](https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform) formunu doldurarak bize iletebilirsiniz.
+### Başvurularınız [Call for Papers](https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform) formunu doldurarak bize iletebilirsiniz.
 
 **Son Başvuru Tarihi** 20 Nisan 2016
 
